@@ -6,6 +6,7 @@ Open the Project.gba file with Visual Boy Advance Emulator (https://vba-m.com/).
 
 ## Game Details
 Genre: Stealth Action
+
 Playtime: 1~2 minutes
 
 Game instructions are inside the game.
